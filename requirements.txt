@@ -1,0 +1,13 @@
+# Python 3.11. Tested with these versions.
+# torch: install the build matching your CUDA, e.g.
+#   pip install torch==2.9.0 --index-url https://download.pytorch.org/whl/cu128
+tensorflow==2.20.0
+keras==3.14.1
+torch==2.9.0
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.16.3
+h5py==3.15.1
+pyyaml==6.0.3
+matplotlib==3.10.7
+tqdm==4.67.1

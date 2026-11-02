@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# written by tools/build_celestrak_drivers.py when it downloads
+data/SW-All.csv
